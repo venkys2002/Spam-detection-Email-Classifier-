@@ -1,0 +1,1 @@
+{"hamWordsCount": 0, "hamFilesCount": 0, "vocabSize": 0, "spamWordsCount": 0, "trainData": {}, "totalFilesCount": 0, "spamFilesCount": 0}
